@@ -20,9 +20,6 @@ Additional Expectations:
 n/a
 
 
-Assignment Example 1 Picture:    
-    ![TBD](public/assets/website1.jpg)
-
 
 Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module14-wordpresstechblog-lsandura   
@@ -36,12 +33,9 @@ Heroku Deploy:
 https://serene-garden-62707.herokuapp.com/
 
 How to use, run or deploy a clone:
+    when it is cloned must npm i and run seed
 
-
-
-Video link of working app deployed: (if applicable)
-
-
+    Current not yet running or seeding, still need to be resolved but all the other framework is there.
 
 References:
     1 - Assignment criteria received in UofA assignments
