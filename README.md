@@ -25,10 +25,6 @@ Git Repository link where finalzed project can be pulled:
     https://github.com/laurabora118/uofa-module14-wordpresstechblog-lsandura   
 
 
-Git Page that shows finalized project results:
-    https://laurabora118.github.io/uofa-module14-wordpresstechblog-lsandura  
-
-
 Heroku Deploy:
 https://serene-garden-62707.herokuapp.com/
 
